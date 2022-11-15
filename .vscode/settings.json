@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-6-vector",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-6-vector/main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-6-vector",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-6-vector/vector",
+            "binaryArgs": []
+        }
+    ]
+}
